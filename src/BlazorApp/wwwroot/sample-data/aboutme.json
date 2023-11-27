@@ -1,12 +1,13 @@
 {
   "description": "I'm a Software Developer",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    ".NET",
+    "Web application",
+    "SPA application",
+    "Typescript",
+    "Cloud",
+    "Micro service",
+    "Postgres SQL, SQL Server, MongoDB"
   ],
-  "detailOrQuote": "I am passionate about designing application"
+  "detailOrQuote": "I am passionate about designing application's architecture"
 }
